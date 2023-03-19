@@ -4,8 +4,6 @@
 
 
 
-2.Sandhireddy.Lakshmi Manasa - 19PA1A05G3
-
 
 #  OBJECTIVE OF CHATBOT:
 
